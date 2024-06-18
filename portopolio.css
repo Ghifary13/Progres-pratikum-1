@@ -1,0 +1,70 @@
+l
+body {
+font-family: Arial, sans-serif;
+background-color: white;
+margin: 0;
+padding: 0;
+}
+
+h1 {
+color: black;
+text-align: center;
+padding-top: 30px;
+}
+
+h2 {
+color: brown;
+margin-top: 30px;
+}
+
+p {
+color: black;
+line-height: 1.5;
+}
+
+ul {
+list-style-type: disc;
+margin-left: 20px;
+color: black;
+}
+
+li {
+margin-bottom: 10px;
+}
+
+.container {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+background-color: black;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Warna-warna tambahan */
+.bg-blue {
+background-color: blue;
+color: white;
+padding: 10px;
+margin-bottom: 20px;
+}
+
+.bg-green {
+background-color: green;
+color:white;
+padding: 10px;
+margin-bottom: 20px;
+}
+
+.bg-orange {
+background-color: yellow;
+color: white;
+padding: 10px;
+margin-bottom: 20px;
+}
+
+.bg-purple {
+background-color: palevioletred;
+color: white;
+padding: 10px;
+margin-bottom: 20px;
+}
